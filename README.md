@@ -14,7 +14,7 @@ WinBall Survivor is a game I made for my Game Design (MWD 230) final project. It
 You can also:
   - Go to the 'Builds' folder
   - Download the macOS/Windows executable
-  - Go to [URL here] to play online
+  - Go to [my website](http://winball.tushariyer.co) to play online
 
 ### Objective
 ----
@@ -41,7 +41,7 @@ WinBall Survivor uses a couple of open source assets to work:
 * Campfire [Free]
 * IslandAssets [Free]
 
-And of course WinBall itself is open source with a [public repository][self]
+And of course WinBall itself is open source with a [public repository](https://github.com/tushariyer)
 on GitHub.
 
 ### Installation
