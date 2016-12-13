@@ -41,7 +41,7 @@ Head over to the Test Builds directory to see the game in its various stages of 
 
 ### Controls
 ----
-The controls are fairly simple. Use the ```W``` ```A``` ```S``` ```D``` keys to navigate and strafe. Your mouse controls directional input. Use ```Space``` to jump and ```Shift``` to sprint.
+The controls are fairly simple. Use the ```W``` ```A``` ```S``` ```D``` keys to navigate and strafe. Your mouse controls directional input. Use ```Space``` to jump and ```Shift``` to sprint. You also have a very very very very flappy sword. Hit ```F``` to use it. Hope that helps.
 
 ### Enemies
 ----
