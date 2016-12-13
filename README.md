@@ -39,6 +39,14 @@ From this we can see the ```console``` output that occurs during gameplay. I'm a
 ----
 The controls are fairly simple. Use the ```W``` ```A``` ```S``` ```D``` keys to navigate and strafe. Your mouse controls directional input. Use ```Space``` to jump and ```Shift``` to sprint.
 
+### Enemies
+----
+
+We're (by we're, I mean me) proud to state that this game has three kinds of enemies. 
+> A Sentry, which is an enemy that stays in one spot and looks at you. It will not attack, lest you enter its 15 foot radius. Then God help you.
+> A Passive enemy, which roams the land aimlessly. This enemy just wants to be alone, and won't hurt you unless you touch it. Then it's your fault. Don't come to me and complain.
+> An Aggressive enemy; who randomly goes about the terrain. Don't be fooled, these look similar to the Passive Enemies but have a slightly darker side (get it? They're all black). If these see you, they will follow you. They will find you, and they will kill you. :)
+
 ### Tech
 ----
 WinBall Survivor uses a couple of open source assets to work:
