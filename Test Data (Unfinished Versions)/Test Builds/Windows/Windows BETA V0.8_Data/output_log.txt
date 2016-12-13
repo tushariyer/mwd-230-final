@@ -1,0 +1,573 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     1792 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Windows BETA V0.8_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Windows BETA V0.8_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Windows BETA V0.8_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\Windows BETA V0.8_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Windows BETA V0.8_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Windows BETA V0.8_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Windows BETA V0.8_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\Windows BETA V0.8_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: F:\Windows BETA V0.8_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Windows BETA V0.8_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Windows BETA V0.8_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Windows BETA V0.8_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Windows BETA V0.8_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\Windows BETA V0.8_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: F:\Windows BETA V0.8_Data\Managed\TerrainAsset.dll (this message is harmless)
+Loading F:\Windows BETA V0.8_Data\Managed\TerrainAsset.dll into Unity Child Domain
+- Completed reload, in  0.334 seconds
+Platform assembly: F:\Windows BETA V0.8_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Windows BETA V0.8_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.789874 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.607528 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 373.
+Total: 0.291659 ms (FindLiveObjects: 0.022237 ms CreateObjectMapping: 0.012829 ms MarkObjects: 0.188594 ms  DeleteObjects: 0.053884 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.746681 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1250.
+Total: 0.502919 ms (FindLiveObjects: 0.092372 ms CreateObjectMapping: 0.032929 ms MarkObjects: 0.357089 ms  DeleteObjects: 0.020527 ms)
+
+Passive Enemy Spawned at (28.50165, -0.2300292, -23.2756).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HealthPack Spawned at (51.30441, -1.22, -32.60643).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Health Replenished.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Aggressive Enemy Spawned at (84.83958, 4.510602, -61.0906).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HealthPack Spawned at (42.40239, -1.22, -49.88818).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Passive Enemy Killed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Passive Enemy Killed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Aggressive Enemy Spawned at (26.56698, -0.9337819, -41.65351).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Health Replenished.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HealthPack Spawned at (82.15, 1.189343, -45.20829).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Sentry Spawned at (101.3162, 2.820664, -48.22369).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HealthPack Spawned at (192.3744, 30.8653, -37.97591).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Passive Enemy Spawned at (189.1758, 29.27048, -36.00206).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Aggressive Enemy Spawned at (262.4441, 46.26191, -27.42855).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HealthPack Spawned at (286.765, 48.2589, -30.67957).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Sentry Spawned at (282.5474, 42.24266, -29.24844).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HealthPack Spawned at (304.3358, 50.53796, -34.08723).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Passive Enemy Spawned at (331.2248, 58.83795, -36.17784).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+You're dead, kid.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 46.360954 ms
+
+Unloading 205 unused Assets to reduce memory usage. Loaded Objects now: 865.
+Total: 2.111320 ms (FindLiveObjects: 0.053028 ms CreateObjectMapping: 0.019672 ms MarkObjects: 0.381893 ms  DeleteObjects: 1.655870 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.595719 ms
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 440.
+Total: 0.289093 ms (FindLiveObjects: 0.027369 ms CreateObjectMapping: 0.011546 ms MarkObjects: 0.187311 ms  DeleteObjects: 0.062009 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.378472 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1271.
+Total: 0.426797 ms (FindLiveObjects: 0.065858 ms CreateObjectMapping: 0.018389 ms MarkObjects: 0.320739 ms  DeleteObjects: 0.021382 ms)
+
+Passive Enemy Spawned at (43.77752, 0.4894528, -7.785085).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HealthPack Spawned at (71.38262, -1.22, -14.17112).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Health Replenished.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Passive Enemy Spawned at (138.4734, 2.952629, -24.00238).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HealthPack Spawned at (183.3458, 24.66695, -29.47856).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Health Replenished.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Aggressive Enemy Spawned at (225.1174, 45.81072, -33.87484).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Aggressive Enemy Killed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HealthPack Spawned at (286.8092, 45.04553, -40.74076).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Sentry Spawned at (284.9583, 44.65367, -43.53676).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Health Replenished.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HealthPack Spawned at (304.5411, 55.33281, -49.72145).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Sentry Spawned at (302.3687, 56.01508, -49.49765).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Sentry Spawned at (344.125, 80.42281, -42.32996).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Sentry Killed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HealthPack Spawned at (355.1494, 89.70092, -43.58968).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Health Replenished.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Sentry Killed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Passive Enemy Spawned at (355.2461, 90.27984, -50.71857).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HealthPack Spawned at (358.3999, 88.78183, -52.15677).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Sentry Killed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Sentry Spawned at (354.6317, 87.71053, -50.54104).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Sentry Killed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Health Replenished.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HealthPack Spawned at (378.9399, 87.16679, -39.11292).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Health Replenished.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Aggressive Enemy Spawned at (386.6421, 65.4457, -47.94667).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HealthPack Spawned at (395.0686, 6.176706, -123.6942).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Passive Enemy Spawned at (392.1136, 4.95655, -121.5918).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Sentry Spawned at (394.7881, 40.83598, -125.3469).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HealthPack Spawned at (398.3138, 49.76965, -127.5121).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Passive Enemy Spawned at (398.3245, 77.02458, -128.5065).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Passive Enemy Killed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HealthPack Spawned at (400.3087, 92.19217, -129.8179).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Aggressive Enemy Spawned at (397.6437, 103.4024, -129.1373).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Taking Enemy Damage!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+You're dead, kid.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 33.401375 ms
+
+Unloading 205 unused Assets to reduce memory usage. Loaded Objects now: 884.
+Total: 2.298632 ms (FindLiveObjects: 0.060299 ms CreateObjectMapping: 0.019672 ms MarkObjects: 0.514038 ms  DeleteObjects: 1.703767 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.664999 ms
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 459.
+Total: 0.311331 ms (FindLiveObjects: 0.029508 ms CreateObjectMapping: 0.013257 ms MarkObjects: 0.197147 ms  DeleteObjects: 0.070562 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.413112 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1290.
+Total: 0.470845 ms (FindLiveObjects: 0.053456 ms CreateObjectMapping: 0.032073 ms MarkObjects: 0.365215 ms  DeleteObjects: 0.019672 ms)
+
+Passive Enemy Spawned at (37.26289, -0.9934537, -31.22081).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HealthPack Spawned at (59.12328, -1.22, -43.45127).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Health Replenished.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Passive Enemy Spawned at (95.43065, 3.310489, -99.96964).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HealthPack Spawned at (102.105, 9.07511, -135.039).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Aggressive Enemy Spawned at (88.52885, 17.33919, -178.9468).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HealthPack Spawned at (65.59799, 26.6291, -238.4538).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Aggressive Enemy Spawned at (59.49554, 27.18848, -257.2017).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HealthPack Spawned at (32.97063, 45.90519, -346.9271).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Aggressive Enemy Spawned at (31.99859, 44.61148, -347.2735).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Passive Enemy Spawned at (-17.60955, 57.14191, -391.8282).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HealthPack Spawned at (-24.18418, 63.76273, -371.7901).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Passive Enemy Spawned at (-73.97177, 63.18488, -325.999).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+HealthPack Spawned at (-115.3342, 63.78641, -315.8118).
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+You're dead, kid.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.951159 ms
+
+Unloading 205 unused Assets to reduce memory usage. Loaded Objects now: 903.
+Total: 2.281098 ms (FindLiveObjects: 0.051318 ms CreateObjectMapping: 0.018816 ms MarkObjects: 0.390446 ms  DeleteObjects: 1.819661 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: f24 -> priority: 1 
+  Thread -> id: 2678 -> priority: 1 

@@ -35,6 +35,10 @@ From this we can see the ```console``` output that occurs during gameplay. I'm a
 [![Unity](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/Console%20Output%20-%20Spawning.png)](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/Console%20Output%20-%20Spawning.png)
 
 
+### Test Data
+----
+Head over to the Test Builds directory to see the game in its various stages of development. The earlier builds are all built for macOS, so you might need to borrow a laptop for it. I made a windows build once I reached beta. I'll have a Windows and macOS version of the GM build in the Builds folder once I'm done. That's all.
+
 ### Controls
 ----
 The controls are fairly simple. Use the ```W``` ```A``` ```S``` ```D``` keys to navigate and strafe. Your mouse controls directional input. Use ```Space``` to jump and ```Shift``` to sprint.
