@@ -2,9 +2,6 @@
 ----
 #### By Tushar Iyer
 ----
-
-[![Unity](https://dannagle.com/unityscreenshots/windows7_madewithunity.png)](https://store.unity.com/products/unity-personal?_ga=1.202645457.1591437004.1467993975)
-
 WinBall Survivor is a game I made for my Game Design (MWD 230) final project. It includes several standard assets and UI kits..
 
   - Navigate to the winball-survivor folder
@@ -27,6 +24,19 @@ The objective of this game is to get to the WinBall. You have spawned on an unfa
 >  Be careful not to traverse over cliffs, or you might not have enough health to make it back up.
 > 
 > Good luck.
+
+### Welcome
+----
+Welcome to your HUD. That's your viewport. The game is rendered in First-Person. You have an objective, a healthbar, and a minimap. For those of you that enjoy knowing how the game performs, theres an FPS counter as well. Refer below to see the HUD setup:
+[![Unity](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/HUD.png)](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/HUD.png)
+
+----
+Heads-Up Display
+----
+* Top Left: Active HUD. This shows you the current objective and your health bar. Be mindful
+* Top Right: FPS Counter. Know how many frames per second you're playing at. If the number's under 30, don't be disturbed. 
+* Bottom Left: MiniMap. This shows you a bird's eye view of you and your surroundings. 
+
 
 ### Mission Directions
 ----
@@ -97,5 +107,7 @@ Download and discover [Unity](https://store.unity.com/products/unity-personal?_g
 
 MIT
 ----
+
+[![Unity](https://dannagle.com/unityscreenshots/windows7_madewithunity.png)](https://store.unity.com/products/unity-personal?_ga=1.202645457.1591437004.1467993975)
 
 ***Wooo! Cool game!***
