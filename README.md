@@ -80,6 +80,7 @@ WinBall Survivor uses a couple of open source assets to work:
 * Campfire [Free]
 * IslandAssets [Free]
 * Attack Jump & Hit Damage Human Sounds [Free]
+* Nature Starter Kit 2 [Free]
 
 And of course WinBall itself is open source with a [public repository](https://github.com/tushariyer)
 on GitHub.
