@@ -28,6 +28,19 @@ The objective of this game is to get to the WinBall. You have spawned on an unfa
 > 
 > Good luck.
 
+### Mission Directions
+----
+Observe the waterfall below:
+[![Unity](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/Waterfall.png)](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/Waterfall.png)
+
+Go back and look at it again. You clearly just skimmed past it. Above the waterfall, there's a small oasis in the middle of the lake at the top:
+[![Unity](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/WinBall%20Location.png)](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/WinBall%20Location.png)
+
+On that island, we have the WinBall (A.K.A. "the Orb"; according to the enemies):
+[![Unity](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/winball.png)](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/winball.png)
+
+Go Fetch!
+
 ### Console Output in Unity
 ----
 From this we can see the ```console``` output that occurs during gameplay. I'm actually really happy to be able to say that the game runs without any warnings at all! the ```Debug.Log();``` statements are written in to various classes and are triggered when certain events fire. If you open the project in Unity and test, you'll see how the console notifies you of the coordinates at which the enemies/healthpacks spawn. They're visisble on the minimap as well!
@@ -50,6 +63,13 @@ We're (by we're, I mean me) proud to state that this game has three kinds of ene
 > A Sentry, which is an enemy that stays in one spot and looks at you. It will not attack, lest you enter its 15 foot radius. Then God help you.
 > A Passive enemy, which roams the land aimlessly. This enemy just wants to be alone, and won't hurt you unless you touch it. Then it's your fault. Don't come to me and complain.
 > An Aggressive enemy; who randomly goes about the terrain. Don't be fooled, these look similar to the Passive Enemies but have a slightly darker side (get it? They're all black). If these see you, they will follow you. They will find you, and they will kill you. :)
+
+### HealthPacks | Static Packs
+----
+
+So what's the difference between the two? Nothing really. Static Packs can be found around the map, prespawned, and healthpacks will spawn only in your hour of need in a location near you. So move around and explore, you'll never be too far from a health pack when you need it. 
+
+[![Unity](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/health-static.png)](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/health-static.png)
 
 ### Tech
 ----
