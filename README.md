@@ -28,6 +28,13 @@ The objective of this game is to get to the WinBall. You have spawned on an unfa
 > 
 > Good luck.
 
+### Console Output in Unity
+----
+From this we can see the ```console``` output that occurs during gameplay. I'm actually really happy to be able to say that the game runs without any warnings at all! the ```Debug.Log();``` statements are written in to various classes and are triggered when certain events fire. If you open the project in Unity and test, you'll see how the console notifies you of the coordinates at which the enemies/healthpacks spawn. They're visisble on the minimap as well!
+
+[![Unity](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/Console%20Output%20-%20Spawning.png)](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/Console%20Output%20-%20Spawning.png)
+
+
 ### Controls
 ----
 The controls are fairly simple. Use the ```W``` ```A``` ```S``` ```D``` keys to navigate and strafe. Your mouse controls directional input. Use ```Space``` to jump and ```Shift``` to sprint.
