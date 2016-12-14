@@ -7,6 +7,17 @@
 ----
 ### Version 1 Released! https://github.com/tushariyer/mwd-230-final/releases/tag/1.0
 #### Download a Zipped version of the Source Code from: https://drive.google.com/file/d/0B2DvMQpoxvvkbExoc1kzQUJkbUk/view?usp=sharing
+----
+#### Version 1.0
+----
+> This is the final GM build for Windows, macOS & HTML/JS. 
+
+* Link for Active WebGL Version: http://winball.tushariyer.co
+* Link for Downloadable WebGL Version: https://github.com/tushariyer/mwd-230-final/tree/master/Builds/Web/WinBall%20Survivor%20V1.0
+* Link for macOS Version: https://github.com/tushariyer/mwd-230-final/tree/master/Builds/macOS
+* Link for Windows Version: https://github.com/tushariyer/mwd-230-final/tree/master/Builds/Windows
+
+
 
 ----
 WinBall Survivor is a game I made for my Game Design (MWD 230) final project. It includes several standard assets and UI kits..
