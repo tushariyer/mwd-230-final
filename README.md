@@ -9,7 +9,7 @@
 
 WinBall Survivor is a game I made for my Game Design (MWD 230) final project. It includes several standard assets and UI kits..
 
-  - Navigate to the winball-survivor folder
+  - Navigate to the source code folder
   - Download .zip file
   - Magic
 
