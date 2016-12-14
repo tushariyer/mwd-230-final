@@ -5,6 +5,8 @@
 
 [![Logo](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Logo/DarkOrb.jpg)](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Logo/DarkOrb.jpg)
 
+### Version 1 Released! https://github.com/tushariyer/mwd-230-final/releases/tag/1.0
+
 WinBall Survivor is a game I made for my Game Design (MWD 230) final project. It includes several standard assets and UI kits..
 
   - Navigate to the winball-survivor folder
