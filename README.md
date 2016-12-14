@@ -2,6 +2,9 @@
 ----
 #### By Tushar Iyer
 ----
+
+[![Logo](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Logo/DarkOrb.jpg)](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Logo/DarkOrb.jpg)
+
 WinBall Survivor is a game I made for my Game Design (MWD 230) final project. It includes several standard assets and UI kits..
 
   - Navigate to the winball-survivor folder
@@ -28,7 +31,7 @@ The objective of this game is to get to the WinBall. You have spawned on an unfa
 ### Welcome
 ----
 Welcome to your HUD. That's your viewport. The game is rendered in First-Person. You have an objective, a healthbar, and a minimap. For those of you that enjoy knowing how the game performs, theres an FPS counter as well. Refer below to see the HUD setup:
-[![Unity](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/HUD.png)](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/HUD.png)
+[![HUD](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/HUD.png)](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/HUD.png)
 
 ----
 Heads-Up Display
@@ -41,13 +44,13 @@ Heads-Up Display
 ### Mission Directions
 ----
 Observe the waterfall below:
-[![Unity](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/Waterfall.png)](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/Waterfall.png)
+[![Waterfall](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/Waterfall.png)](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/Waterfall.png)
 
 Go back and look at it again. You clearly just skimmed past it. Above the waterfall, there's a small oasis in the middle of the lake at the top:
-[![Unity](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/WinBall%20Location.png)](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/WinBall%20Location.png)
+[![Oasis](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/WinBall%20Location.png)](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/WinBall%20Location.png)
 
 On that island, we have the WinBall (A.K.A. "the Orb"; according to the enemies):
-[![Unity](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/winball.png)](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/winball.png)
+[![Winball](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/winball.png)](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/winball.png)
 
 Go Fetch!
 
@@ -55,7 +58,7 @@ Go Fetch!
 ----
 From this we can see the ```console``` output that occurs during gameplay. I'm actually really happy to be able to say that the game runs without any warnings at all! the ```Debug.Log();``` statements are written in to various classes and are triggered when certain events fire. If you open the project in Unity and test, you'll see how the console notifies you of the coordinates at which the enemies/healthpacks spawn. They're visisble on the minimap as well!
 
-[![Unity](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/Console%20Output%20-%20Spawning.png)](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/Console%20Output%20-%20Spawning.png)
+[![Console](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/Console%20Output%20-%20Spawning.png)](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/Console%20Output%20-%20Spawning.png)
 
 
 ### Test Data
@@ -79,7 +82,7 @@ We're (by we're, I mean me) proud to state that this game has three kinds of ene
 
 So what's the difference between the two? Nothing really. Static Packs can be found around the map, prespawned, and healthpacks will spawn only in your hour of need in a location near you. So move around and explore, you'll never be too far from a health pack when you need it. 
 
-[![Unity](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/health-static.png)](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/health-static.png)
+[![HealthPacks](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/health-static.png)](https://raw.githubusercontent.com/tushariyer/mwd-230-final/master/Test%20Data%20(Unfinished%20Versions)/Renderings/health-static.png)
 
 ### Tech
 ----
